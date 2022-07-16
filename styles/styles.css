@@ -1,0 +1,29 @@
+body {
+  background-color: #A2B5BB;}
+
+hr {
+    border-color: grey;
+    border-style: none;
+    border-width: 5px;
+    border-top-style: dotted;
+    width: 5%;
+  }
+h1 {
+  color: #3330E4;
+}
+
+p {
+  color: #3330E4;
+}
+
+.bacon {
+  background-color: red;
+}
+
+.myImage {
+  background-color: blue;
+}
+
+img:hover{
+  background-color: gold;
+}
